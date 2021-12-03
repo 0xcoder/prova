@@ -1,2 +1,2 @@
-# Curso 7192 - Flutter: Alcool ou Gasolina
+Flutter: Alcool ou Gasolina
 
